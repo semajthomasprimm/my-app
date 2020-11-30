@@ -4,7 +4,7 @@
 
 ### Screenshot
 
-![Simple Login Form Screenshot](src/styled_form.png)
+![](src/styled_form.PNG)
 
 
 ## Start up in development mode
